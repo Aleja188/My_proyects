@@ -1,0 +1,41 @@
+{
+    "jefe 3": {
+        "nombre": "Iris",
+        "apellido": "Hernandez",
+        "edad": "45",
+        "cargo": "CEO",
+        "salario": "20000",
+        "empleados": {
+            "empleado 0": {
+                "nombre": "Alejandro",
+                "apellido": "Espinel",
+                "edad": "18",
+                "cargo": "dise\u00f1ador de software",
+                "salario": "1000"
+            },
+            "empleado 2": {
+                "nombre": "Camila",
+                "apellido": "Rodriguez",
+                "edad": "25",
+                "cargo": "dise\u00f1adora grafica",
+                "salario": "3000"
+            }
+        }
+    },
+    "jefe 4": {
+        "nombre": "William",
+        "apellido": "Duarte",
+        "edad": "30",
+        "cargo": "CEO",
+        "salario": "50000",
+        "empleados": {}
+    },
+    "jefe 5": {
+        "nombre": "Carlos",
+        "apellido": "Hernandez",
+        "edad": "35",
+        "cargo": "soporte tecnico",
+        "salario": "15000",
+        "empleados": {}
+    }
+}
