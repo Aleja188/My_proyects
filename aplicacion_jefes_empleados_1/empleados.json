@@ -1,0 +1,9 @@
+{
+    "empleado 1": {
+        "nombre": "Ana",
+        "apellido": "Payares",
+        "edad": "20",
+        "cargo": "secretaria",
+        "salario": "10000"
+    }
+}

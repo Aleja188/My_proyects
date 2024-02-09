@@ -1,0 +1,16 @@
+{
+    "1437": {
+        "nombre": "Patricia",
+        "apellido": "Rodriguez",
+        "edad": "25",
+        "cargo": "dise\u00f1adora web",
+        "salario": "3900"
+    },
+    "2533": {
+        "nombre": "Pablo",
+        "apellido": "Gonzales",
+        "edad": "25",
+        "cargo": "caballo",
+        "salario": "1000000"
+    }
+}

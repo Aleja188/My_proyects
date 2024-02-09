@@ -1,0 +1,62 @@
+{
+    "2161": {
+        "nombre": "William ",
+        "apellido": "Duarte",
+        "edad": "36",
+        "cargo": "CEO",
+        "salario": "35000",
+        "empleados": {
+            "2295": {
+                "nombre": "Carlos",
+                "apellido": "Hernandez",
+                "edad": "35",
+                "cargo": "soporte tecnico",
+                "salario": "4900"
+            },
+            "2033": {
+                "nombre": "Alejandro",
+                "apellido": "Espinel",
+                "edad": "18",
+                "cargo": "dise\u00f1ador de software",
+                "salario": "4500"
+            },
+            "2686": {
+                "nombre": "Maria",
+                "apellido": "Hernandez",
+                "edad": "18",
+                "cargo": "programadora de software",
+                "salario": "5000"
+            }
+        }
+    },
+    "1200": {
+        "nombre": "Iris",
+        "apellido": "Hernandez",
+        "edad": "42",
+        "cargo": "supervisora de proyectos",
+        "salario": "25000",
+        "empleados": {
+            "2158": {
+                "nombre": "Julian",
+                "apellido": "Hernandez",
+                "edad": "21",
+                "cargo": "analista de datos",
+                "salario": "3000"
+            },
+            "1404": {
+                "nombre": "Pepito",
+                "apellido": "Suarez",
+                "edad": "25",
+                "cargo": "programador",
+                "salario": "3400"
+            },
+            "2630": {
+                "nombre": "Camila",
+                "apellido": "Rodriguez",
+                "edad": "18",
+                "cargo": "asistente de marketing",
+                "salario": "4000"
+            }
+        }
+    }
+}
